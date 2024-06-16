@@ -270,7 +270,7 @@
     </property>
     <property key="FormFieldTitle_emplLeaveReasonTypeId">
         <value xml:lang="en">Leave Reason Type</value>
-        <value xml:lang="de">Urlaubsgrund Typ ID</value>
+        <value xml:lang="de">Abwesenheitsgrund ID</value>
         <value xml:lang="es">Razón del tipo de salida</value>
         <value xml:lang="fr">Raison du congé</value>
         <value xml:lang="ja">休職理由種類</value>
@@ -319,7 +319,7 @@
         <value xml:lang="zh-TW">應聘求職資訊獲取來源</value>
     </property>
     <property key="FormFieldTitle_emplPositionId">
-        <value xml:lang="de">Anstellungspositions-ID</value>
+        <value xml:lang="de">Stellen ID</value>
         <value xml:lang="en">Empl Position ID</value>
         <value xml:lang="es">Cargo Id</value>
         <value xml:lang="fr">Position de l'employé</value>
@@ -511,7 +511,7 @@
     </property>
     <property key="FormFieldTitle_leaveStatus">
         <value xml:lang="en">Leave Status</value>
-        <value xml:lang="de">Urlaubsstatus</value>
+        <value xml:lang="de">Genehmigungsstatus</value>
         <value xml:lang="es">Estado de Evento</value>
         <value xml:lang="fr">Etat de congé</value>
         <value xml:lang="ja">休職ステータス</value>
@@ -522,7 +522,7 @@
     </property>
     <property key="FormFieldTitle_leaveTypeId">
         <value xml:lang="en">Leave Type ID</value>
-        <value xml:lang="de">Urlaubsart ID</value>
+        <value xml:lang="de">Abwesenheitsart ID</value>
         <value xml:lang="es">Id Tipo de Evento</value>
         <value xml:lang="fr">Type de congé</value>
         <value xml:lang="it">Tipo di licenziamento</value>
@@ -1013,7 +1013,7 @@
         <value xml:lang="zh-TW">假日名稱</value>
     </property>
     <property key="HumanResAddEmplLeave">
-        <value xml:lang="de">einfügen Urlaubsantrag</value>
+        <value xml:lang="de">Abwesenheit beantragen</value>
         <value xml:lang="en">Add Employee Leave</value>
         <value xml:lang="es">Agregar permiso de Empleado</value>
         <value xml:lang="fr">Ajouter le congé</value>
@@ -1025,7 +1025,7 @@
         <value xml:lang="zh-TW">新建員工請假</value>
     </property>
     <property key="HumanResAddEmplLeaveReasonType">
-        <value xml:lang="de">einfügen Urlaubsgrund Typ</value>
+        <value xml:lang="de">Abwesenheitsgrund anlegen</value>
         <value xml:lang="en">Add Employee Leave Reason</value>
         <value xml:lang="es">Añadir rason de permiso</value>
         <value xml:lang="fr">Ajouter un type de congé</value>
@@ -1036,7 +1036,7 @@
         <value xml:lang="zh-TW">增加員工離職原因</value>
     </property>
     <property key="HumanResAddEmplLeaveType">
-        <value xml:lang="de">einfügen Urlaub Typ</value>
+        <value xml:lang="de">Abwesenheitsart anlegen</value>
         <value xml:lang="en">Add EmplLeave Types</value>
         <value xml:lang="es">Agregar Tipo de permiso</value>
         <value xml:lang="fr">Ajouter un type de congé</value>
@@ -1374,7 +1374,7 @@
         <value xml:lang="zh-TW">編輯核准狀態</value>
     </property>
     <property key="HumanResEditEmplLeave">
-        <value xml:lang="de">bearbeite Urlaub</value>
+        <value xml:lang="de">Bearbeite die Abwesenheit</value>
         <value xml:lang="en">Edit Empl Leave</value>
         <value xml:lang="es">Editar la permiso del empleado</value>
         <value xml:lang="fr">Modifier une demande de congé</value>
@@ -1386,7 +1386,7 @@
         <value xml:lang="zh-TW">編輯員工請假</value>
     </property>
     <property key="HumanResEditEmplLeaveType">
-        <value xml:lang="de">bearbeite Urlaub Typ</value>
+        <value xml:lang="de">Bearbeite die Abwesenheitsart</value>
         <value xml:lang="en">Edit Empl Leave Type</value>
         <value xml:lang="es">Editar tipo de salida de empleado</value>
         <value xml:lang="fr">Modifier un type de congé</value>
@@ -1411,7 +1411,7 @@
         <value xml:lang="zh-TW">編輯雇佣</value>
     </property>
     <property key="HumanResEditEmplPosition">
-        <value xml:lang="de">bearbeite Position des Arbeitnehmers</value>
+        <value xml:lang="de">Bearbeite die Stelle</value>
         <value xml:lang="en">Edit Employee Position</value>
         <value xml:lang="es">Editar la cargo del empleado</value>
         <value xml:lang="fr">Modifier la position de l'employé</value>
@@ -1436,7 +1436,7 @@
         <value xml:lang="zh-TW">編輯員工職位級別結構</value>
     </property>
     <property key="HumanResEditEmplPositionType">
-        <value xml:lang="de">bearbeite Art der Arbeitsposition</value>
+        <value xml:lang="de">Bearbeite die Art der Stelle</value>
         <value xml:lang="en">Edit Position Types</value>
         <value xml:lang="es">Editar tipos de posición</value>
         <value xml:lang="fr">Modifier les types de position</value>
@@ -1470,7 +1470,7 @@
         <value xml:lang="zh-TW">編輯工作單</value>
     </property>
     <property key="HumanResEditLeaveApprovalStatus">
-        <value xml:lang="de">bearbeite Beurlaubungsstatus</value>
+        <value xml:lang="de">Bearbeite den Genehmigungsstatus</value>
         <value xml:lang="en">Edit Leave Approval Status</value>
         <value xml:lang="es">Editar estado de aprobación de licencia o salida</value>
         <value xml:lang="ja">休職承認ステータスを編集</value>
@@ -1604,7 +1604,7 @@
         <value xml:lang="zh-TW">解除雇佣聲明</value>
     </property>
     <property key="HumanResEmplLeave">
-        <value xml:lang="de">Urlaub</value>
+        <value xml:lang="de">Abwesenheiten</value>
         <value xml:lang="en">Leave</value>
         <value xml:lang="es">Evento</value>
         <value xml:lang="fr">Congé</value>
@@ -1616,7 +1616,7 @@
         <value xml:lang="zh-TW">考勤管理</value>
     </property>
     <property key="HumanResEmplLeaveType">
-        <value xml:lang="de">Urlaub Typ</value>
+        <value xml:lang="de">Abwesenheiten</value>
         <value xml:lang="en">Employee Leave Type</value>
         <value xml:lang="es">Tipo de salida de empleado</value>
         <value xml:lang="fr">Type de congé des employés</value>
@@ -1640,7 +1640,7 @@
         <value xml:lang="zh-TW">員工</value>
     </property>
     <property key="HumanResEmployeeLeave">
-        <value xml:lang="de">Urlaub</value>
+        <value xml:lang="de">Abwesenheiten</value>
         <value xml:lang="en">Employee Leave</value>
         <value xml:lang="es">Evento de empleado</value>
         <value xml:lang="fr">Congés d'employés</value>
@@ -1651,7 +1651,7 @@
         <value xml:lang="zh-TW">員工離職</value>
     </property>
     <property key="HumanResEmployeeLeaveType">
-        <value xml:lang="de">Urlaubsart</value>
+        <value xml:lang="de">Abwesenheitsart</value>
         <value xml:lang="en">Leave Type</value>
         <value xml:lang="es">Tipo de Evento</value>
         <value xml:lang="ja">休職種類</value>
@@ -1713,7 +1713,7 @@
         <value xml:lang="zh-TW">職位類型識別</value>
     </property>
     <property key="HumanResEmployeeType">
-        <value xml:lang="de">Art des Mitarbeiters</value>
+        <value xml:lang="de">Abwesenheitsgrund</value>
         <value xml:lang="en">Reason Type</value>
         <value xml:lang="es">Tipo de motivo</value>
         <value xml:lang="ja">理由種類</value>
@@ -1761,7 +1761,7 @@
         <value xml:lang="zh-TW">應聘管理</value>
     </property>
     <property key="HumanResEmploymentPartyIdFrom">
-        <value xml:lang="de">Akteur ID von</value>
+        <value xml:lang="de">Organisationseinheit</value>
         <value xml:lang="en">Internal Organization</value>
         <value xml:lang="es">Organización Interna</value>
         <value xml:lang="fr">Organisation interne</value>
@@ -1774,7 +1774,7 @@
         <value xml:lang="zh-TW">組織機構</value>
     </property>
     <property key="HumanResEmploymentPartyIdFromToolTip">
-        <value xml:lang="de">Mitarbeiter arbeitet in</value>
+        <value xml:lang="de">Organisationseinheit, welcher die Stelle zugeordnet ist.</value>
         <value xml:lang="en">Internal Organization Employee works in</value>
         <value xml:lang="es">Organización Interna, Empleado trabaja en</value>
         <value xml:lang="fr">Organisation interne où l'employé travaille</value>
@@ -1797,7 +1797,7 @@
         <value xml:lang="zh-TW">未指定</value>
     </property>
     <property key="HumanResEmplPositionId">
-        <value xml:lang="de">Stelle ID</value>
+        <value xml:lang="de">Stellen ID</value>
         <value xml:lang="en">Employee Position ID</value>
         <value xml:lang="es">Identificador del Cargo del empleado</value>
         <value xml:lang="fr">Position des employés</value>
@@ -1917,7 +1917,7 @@
         <value xml:lang="zh-TW">預計起始日期</value>
     </property>
     <property key="HumanResFindEmplLeave">
-        <value xml:lang="de">Finde Urlaub</value>
+        <value xml:lang="de">Abwesenheitssuche</value>
         <value xml:lang="en">Find Employee Leave</value>
         <value xml:lang="es">Buscar salida de empleado</value>
         <value xml:lang="fr">Rechercher un congé de l'employé</value>
@@ -2071,7 +2071,7 @@
         <value xml:lang="zh-TW">內部職位公開招聘狀態</value>
     </property>
     <property key="HumanResInternalJobPosting">
-        <value xml:lang="de">interne Stellenausschreibung</value>
+        <value xml:lang="de">Interne Stellenausschreibung</value>
         <value xml:lang="en">Internal Job Posting</value>
         <value xml:lang="es">Publicación interna de trabajo</value>
         <value xml:lang="fr">Offre d'emploi interne</value>
@@ -2104,7 +2104,7 @@
         <value xml:lang="zh-TW">工作面試類型</value>
     </property>
     <property key="HumanResJobRequisition">
-        <value xml:lang="de">Stellenanfrage</value>
+        <value xml:lang="de">Stellenausschreibung</value>
         <value xml:lang="en">Job Requisition</value>
         <value xml:lang="es">Solicitud de trabajo</value>
         <value xml:lang="fr">Demande de poste</value>
@@ -2115,7 +2115,7 @@
         <value xml:lang="zh-TW">工作單</value>
     </property>
     <property key="HumanResLeaveApproval">
-        <value xml:lang="de">Urlaubsantrag</value>
+        <value xml:lang="de">Bei mir beantragt</value>
         <value xml:lang="en">Leave Approval</value>
         <value xml:lang="es">Aprobación de permiso</value>
         <value xml:lang="fr">Approbation de congés</value>
@@ -2126,7 +2126,7 @@
         <value xml:lang="zh-TW">核准離職</value>
     </property>
     <property key="HumanResLeaveCreationSuccess">
-        <value xml:lang="de">Urlaubsantrag erfolgreich erstellt</value>
+        <value xml:lang="de">Abwesenheit erfolgreich erstellt</value>
         <value xml:lang="en">Leave request created successfully</value>
         <value xml:lang="es">Solicitud de permiso creada exitosamente</value>
         <value xml:lang="fr">Demande de congés créée avec succès</value>
@@ -2136,7 +2136,7 @@
         <value xml:lang="zh-TW">離職請求新建成功</value>
     </property>
     <property key="HumanResLeaveStatus">
-        <value xml:lang="de">Urlaubsstatus</value>
+        <value xml:lang="de">Genehmigungsstatus</value>
         <value xml:lang="en">Leave</value>
         <value xml:lang="es">Evento</value>
         <value xml:lang="ja">休職</value>
@@ -2312,7 +2312,7 @@
         <value xml:lang="zh-TW">按名稱查詢預算細項</value>
     </property>
     <property key="HumanResLookupEmploymentApp">
-        <value xml:lang="de"></value>
+        <value xml:lang="de">Stelle suchen</value>
         <value xml:lang="en">Lookup EmploymentApp</value>
         <value xml:lang="es">Busqueda EmploymentApp</value>
         <value xml:lang="fr">Consultation des demandes d'emploi</value>
@@ -2324,6 +2324,7 @@
         <value xml:lang="zh-TW">查詢雇佣申請</value>
     </property>
     <property key="HumanResLookupEmplPositionByName">
+        <value xml:lang="de">Stelle suchen nach Name</value>
         <value xml:lang="en">Lookup EmplPosition by Name</value>
         <value xml:lang="es">Ver cargo por nombre</value>
         <value xml:lang="fr">Consultation des positions par nom</value>
@@ -2510,7 +2511,7 @@
         <value xml:lang="zh-TW">人力資源管理系統</value>
     </property>
     <property key="HumanResMyLeaves">
-        <value xml:lang="de">Mein Urlaub</value>
+        <value xml:lang="de">Mein Abwesenheiten</value>
         <value xml:lang="en">My Leaves</value>
         <value xml:lang="es">Mis salidas</value>
         <value xml:lang="fr">Mes congés</value>
@@ -2568,7 +2569,7 @@
         <value xml:lang="zh-TW">新建應聘求職申請</value>
     </property>
     <property key="HumanResNewEmplPosition">
-        <value xml:lang="de">Stelle anlegen</value>
+        <value xml:lang="de">Neue Stelle</value>
         <value xml:lang="en">New Employee Position</value>
         <value xml:lang="es">Nuevo cargo de empleado</value>
         <value xml:lang="fr">Nouveau poste</value>
@@ -2665,7 +2666,7 @@
         <value xml:lang="zh-TW">新建工作單</value>
     </property>
     <property key="HumanResNewLeave">
-        <value xml:lang="de">Neu Urlaub</value>
+        <value xml:lang="de">Abwesenheit beantragen</value>
         <value xml:lang="en">New Leave</value>
         <value xml:lang="es">Nuevo Evento</value>
         <value xml:lang="fr">Nouveau congé</value>
@@ -3561,7 +3562,7 @@
         <value xml:lang="zh-TW">編輯有效職責</value>
     </property>
     <property key="PageTitleFindApprovals">
-        <value xml:lang="de">Suchmaske bewilligter Urlaubsanträge</value>
+        <value xml:lang="de">Bei mir beantragte Abwesenheiten</value>
         <value xml:lang="en">Find Approvals</value>
         <value xml:lang="es">Buscar aprobaciones</value>
         <value xml:lang="fr">Rechercher des approbations</value>
@@ -3594,7 +3595,7 @@
         <value xml:lang="zh-TW">尋找面試詳細資訊</value>
     </property>
     <property key="PageTitleFindJobRequisition">
-        <value xml:lang="de">Suchmaske Stellennachfrage</value>
+        <value xml:lang="de">Suchmaske Stellenausschreibung</value>
         <value xml:lang="en">Find Job Requisition</value>
         <value xml:lang="es">Buscar solicitudes de trabajo</value>
         <value xml:lang="fr">Rechercher une demande de poste</value>
