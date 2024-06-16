@@ -98,7 +98,7 @@
         <value xml:lang="zh-TW">應聘申請識別</value>
     </property>
     <property key="FormFieldTitle_applyingPartyId">
-        <value xml:lang="de">Anwendungsteilnehmer ID</value>
+        <value xml:lang="de">Bewerber ID</value>
         <value xml:lang="en">Applying Party ID</value>
         <value xml:lang="es">Id de solicitud</value>
         <value xml:lang="fr">Acteur en demande</value>
@@ -746,7 +746,7 @@
     </property>
     <property key="FormFieldTitle_qualificationDesc">
         <value xml:lang="en">Qualification Desc</value>
-        <value xml:lang="de">Qualifikation absteigend</value>
+        <value xml:lang="de">Qualifikationsbeschreibung</value>
         <value xml:lang="es">Descripción de calificación</value>
         <value xml:lang="fr">Desc. compl.</value>
         <value xml:lang="it">Descrizione qualifica</value>
@@ -2655,7 +2655,7 @@
         <value xml:lang="zh-TW">新建工作面試</value>
     </property>
     <property key="HumanResNewJobRequisition">
-        <value xml:lang="de">Neue Stellenanfrage</value>
+        <value xml:lang="de">Neue Stellenausschreibung</value>
         <value xml:lang="en">New Job Requisition</value>
         <value xml:lang="es">Nuevo requisito de trabajo</value>
         <value xml:lang="fr">Nouvelle demande de poste</value>
@@ -3163,7 +3163,7 @@
         <value xml:lang="zh-TW">匯報給</value>
     </property>
     <property key="HumanResResponsibilityType">
-        <value xml:lang="de">Verantwortungsarten</value>
+        <value xml:lang="de">Verantwortlichkeiten</value>
         <value xml:lang="en">Responsibility Types</value>
         <value xml:lang="es">Tipos de responsabilidades</value>
         <value xml:lang="fr">Types de responsabilité</value>
@@ -3175,7 +3175,7 @@
         <value xml:lang="zh-TW">職責類型</value>
     </property>
     <property key="HumanResResponsibilityTypeId">
-        <value xml:lang="de">Verantwortung Typ ID</value>
+        <value xml:lang="de">Verantlichkeit ID</value>
         <value xml:lang="en">Responsibility TypeId</value>
         <value xml:lang="es">Id tipo de responsabilidad</value>
         <value xml:lang="fr">Type de responsabilité</value>
@@ -3514,7 +3514,7 @@
         <value xml:lang="zh-TW">編輯績效評定細項</value>
     </property>
     <property key="PageTitleEditResponsibilityType">
-        <value xml:lang="de">Bearbeitung Verantwortungsart</value>
+        <value xml:lang="de">Bearbeitung der Verantwortlichkeit</value>
         <value xml:lang="en">Edit Responsibility Type</value>
         <value xml:lang="es">Editar tipo de responsabilidad</value>
         <value xml:lang="fr">Modifier le type de responsabilité</value>
